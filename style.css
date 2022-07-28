@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-container{
+    justify-content: space-between;
+    width: 90%;
+    float: left;
+    display: flex;
+    margin: 40px 100px;
+}
+.navbar-container img{
+    
+    width: 110px;
+    float: left;
+}
+.navbar-container .list{
+    position: absolute;
+    text-align: center;
+    display: flex;
+    list-style: none;
+    font-weight: 500;
+    margin-top: 0.8%;
+    left: 16%;
+    color: #bdbdbd;
+    font-size: 16px;  
+}
+.list-item{
+    margin: auto 30px;
+}
+.list-item:nth-child(1){
+    color: #000000;
+    font-weight: 600;
+}
+.button-group{
+    display: flex;
+    margin-right: 50px;
+}
+.button-group .search-icon svg{
+    width: 25px;
+}
+.button-group .nav-button{
+    margin: auto 16px;
+    font-size: 17px;
+    width: 150px;
+    height: 55px;
+    border: none;
+    background: #5955b3;
+    color: #ffffff;
+    border-radius: 10px;
+}
+.banner-container{
+    width: 100%;
+    float: left;
+}
+.left{
+    width: 42.2%;
+    float: left;
+}
+.heading-text{
+    width: 80%;
+    font-size: 80px;
+    margin-left: 100px;
+    margin-top: 100px;
+    color: #3c2f60;
+    font-family:  sans-serif;
+    font-weight: 550;
+    line-height: 1.1;
+}
+.heading-text span{
+    color: #5955b3;
+}
+.description{
+    width: 70%;
+    font-size: 18px;
+    margin-left: 100px;
+    margin-top: 30px;
+    line-height: 1.6;
+    color: #828282;
+}
+.banner-container button{
+    margin-top: 60px;
+    margin-left: 100px;
+    height: 70px;
+    background-color: #5955b3;
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 18px;
+    border-radius: 15px;
+    width: 38%;
+    border: none;
+}
+.right{
+    width: 50%;
+    float: left;
+}
