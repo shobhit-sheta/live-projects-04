@@ -49,4 +49,4 @@ Here are some recommended articles from which you can clear your concept.
 
 Name: **Shobhit Sheta**
 
-<a href="https://www.linkedin.com/in/shobhit-sheta-572b16209/" rel="some text"><img src="./readme/linkedin-svgrepo-com.svg" alt="" style="width: 4%;margin-right: 6%"></a> <a href="https://github.com/shobhit-sheta/live-projects-4" rel="some text"><img src="./readme/github-svgrepo-com.svg" alt="" style="width: 4%;margin-right: 6%"></a> <a href="#" rel="some text"><img src="./readme/hashnode-icon-svgrepo-com.svg" alt="" style="width: 4%"></a>
+<a href="https://www.linkedin.com/in/shobhit-sheta-572b16209/" rel="some text"><img src="./readme/linkedin-svgrepo-com.svg" alt="" style="width: 4%;margin-right: 6%"></a> <a href="https://github.com/shobhit-sheta/live-projects-4" rel="some text"><img src="./readme/github-svgrepo-com.svg" alt="" style="width: 4%;margin-right: 6%"></a> <a href="https://shobhitsheta.hashnode.dev/" rel="some text"><img src="./readme/hashnode-icon-svgrepo-com.svg" alt="" style="width: 4%"></a>
